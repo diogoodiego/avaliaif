@@ -71,4 +71,3 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 ## Contato
 
 Se precisar entrar em contato com a equipe responsável pelo projeto, envie um e-mail para: diogo.nascimento@escolar.ifrn.edu.br
----
