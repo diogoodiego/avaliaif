@@ -26,12 +26,12 @@ Siga as etapas abaixo para executar o projeto em sua máquina local:
 
 1. Clone este repositório para o seu computador:
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/diogoodiego/avaliaif.git)
 ```
 
 2. Acesse o diretório do projeto:
 ```
-cd nome-do-repositorio
+cd avaliaif
 ```
 
 3. Crie e ative um ambiente virtual (recomendado):
